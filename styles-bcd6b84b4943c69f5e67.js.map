@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/blog.module.css"],"names":["module","exports"],"mappings":"6EACAA,EAAOC,QAAU,CAAC,KAAO","file":"styles-bcd6b84b4943c69f5e67.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"hero\":\"blog-module--hero--TCejO\"};"],"sourceRoot":""}
